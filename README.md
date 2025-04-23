@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Liar Game - CLI Version
+# 🕵️‍♂️ Liar Game
 
 AI와 함께 심리전을 펼치는 추리 게임 **라이어 게임**의 Python CLI 버전입니다.  
 EEVE-Korean-10.8B 모델을 사용하여 자연스럽고 논리적인 AI 힌트 및 추측 멘트를 생성합니다.
@@ -42,7 +42,7 @@ EEVE-Korean-10.8B 모델을 사용하여 자연스럽고 논리적인 AI 힌트 
 ---
 
 
-## 예시 출력
+## 예시 출력 - CLI Version
 
 ```markdown
 ## 📋 예시 출력
