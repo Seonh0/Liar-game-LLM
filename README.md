@@ -131,3 +131,13 @@ EEVE-Korean-10.8B 모델을 사용하여 자연스럽고 논리적인 AI 힌트 
 > 게임이 끝나면 실제 제시어가 공개됩니다.  
 > 이는 라이어가 누구였는지를 확인하고 결과를 해석하는 데 도움이 됩니다.
 
+---
+## 예시 출력 - Streamlit
+<img width="1433" alt="image" src="https://github.com/user-attachments/assets/57fb03d9-a55d-4906-bc51-d1e3a544d412" />
+<img width="1423" alt="image" src="https://github.com/user-attachments/assets/ae35c09b-87d9-433a-8bf1-7cbe52685e37" />
+<img width="1446" alt="image" src="https://github.com/user-attachments/assets/a988fe01-6867-4677-be9f-fa875c3cb012" />
+
+
+
+
+
