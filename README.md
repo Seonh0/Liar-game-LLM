@@ -217,6 +217,11 @@ AI와 함께 심리전을 펼치는 추리 게임 **라이어 게임**의 Python
 <img width="1446" alt="image" src="https://github.com/user-attachments/assets/a988fe01-6867-4677-be9f-fa875c3cb012" />
 
 
+---
+# 🖋️한 줄 회고
+모델의 성능 아쉬웠지만 프롬프트 엔지니어링과 LLM모델 사용법에 익숙해져서 좋았고 추후에 좀 더 큰 프로젝트도 진행해보고 싶은 욕심이 생겼습니다.😄
+
+
 
 
 
